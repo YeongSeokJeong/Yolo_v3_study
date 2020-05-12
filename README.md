@@ -52,3 +52,6 @@ YOLO v3는 3개의 bounding box를 예측한다. 이때 ground truth box(label)�
 
 ![img](https://dojinkimm.github.io/assets/imgs/yolo/yolo_part1_2.png)
 
+### 학습 데이터
+
+- [http://detrac-db.rit.albany.edu/Detection](http://detrac-db.rit.albany.edu/Detection)
